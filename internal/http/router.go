@@ -11,3 +11,8 @@ func handler() {
 	router.GET("/post", func(c *gin.Context) {})
 
 }
+
+
+func user(w ) {
+
+}
